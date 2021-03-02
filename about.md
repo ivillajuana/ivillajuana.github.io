@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Mi nombre es Isaac Villajuana y soy un estudiante de Ing. Electrónica del **Instituto Tecnológico de
+Mérida** (México) Me gusta mucho escribir código, leer, dibujar y escribir notas sobre temas
+diversos.
 
-### More Information
+### Más información
 
-A place to include any other types of information that you'd like to include about yourself.
+* Sistema operativo: Linux
+* Distro: Arch Linux
+* WM: dwm
+* Editor: NeoVim 
 
-### Contact me
+### Contacto
 
-[email@domain.com](mailto:email@domain.com)
+Si te interesa hablar sobre un tema o proyecto conmigo puedes enviarme un correo a esta [dirección](mailto:ivillajuana@hotmail.com)
